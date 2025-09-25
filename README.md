@@ -1,2 +1,2 @@
-# PLN-grupo-19
+# Password-optimizer
 Ferramenta otimizadora de aleatoriedade em senhas
